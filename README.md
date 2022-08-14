@@ -1,10 +1,8 @@
-# Hello World!
-
 Gabriel Nguyen - Technical Business Analyst
 
-Email: gabrieltnguyen@gmail.com
+Email: [gabrieltnguyen@gmail.com](mailto:gabrieltnguyen@gmail.com "gabrieltnguyen@gmail.com")
 
-Mobile: +84.833.388.933
+Mobile: [+84.933.388.933](tel:+84933388933 "+84.933.388.933")
 
 ### Design Tools
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
